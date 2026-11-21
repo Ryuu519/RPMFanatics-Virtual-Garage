@@ -1,4 +1,4 @@
-# RPMFanatics — Virtual Garage & Car Meet Platform
+# RPMFanatics - Virtual Garage & Car Meet Platform
 
 A web application built in **Go (Golang)** designed for automotive enthusiasts to showcase their vehicles, document modifications, and organize local car meets.
 
