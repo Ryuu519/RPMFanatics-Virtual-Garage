@@ -7,7 +7,7 @@ RPMFanatics acts as a digital garage and community hub where users can share the
 
 ## Planned Features
 * **Authentication & RBAC:** Role-based access control for Guests, Registered Members, and Administrators using JWT authentication and `bcrypt` password hashing.
-* **Virtual Garage & Tuning Log:** Full CRUD management for user vehicles and tuning logs,with ownership checks (members manage only their own content, admins can manage everything).
+* **Virtual Garage & Tuning Log:** Full CRUD management for user vehicles and tuning logs, with ownership checks (members manage only their own content, admins can manage everything).
 * **Car Meets:** Event creation and RSVP system for local meetups, with strict date/time validation, maximum capacity, organizer approval of join requests, and one RSVP (with one car) per user per event.
 * **Search, Filtering & Pagination:** Dynamic filtering (by make, year, fuel type, etc.), sorting (by popularity, horsepower, or date), and paginated listings.
 * **Landing Page & Seeding:** Public showcase for trending builds and upcoming meets, populated with realistic test data.
